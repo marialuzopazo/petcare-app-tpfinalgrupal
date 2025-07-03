@@ -14,7 +14,7 @@ Usuario al que esta dirigido: Cliente.
 Para el veterinario validaciones.
 
 // Pasos:
-//(Maquetacion/Presentacion)
+// (Maquetacion/Presentacion)
 //
 //
 //
@@ -35,4 +35,4 @@ Backend:
 -Canva Presentacion
 -Canva App
 -Formulario para agregar nuevas tareas.
--
+
