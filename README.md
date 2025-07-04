@@ -72,5 +72,5 @@ Eliminar una tarea
 3/7 : Inicio
 -
 4/7 : 
--//4) Conexión a Base de Datos a Creacion PostgreSQL
+-4) Conexión a Base de Datos y Creacion de database PostgreSQL
 -
