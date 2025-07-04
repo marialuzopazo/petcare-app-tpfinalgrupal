@@ -61,7 +61,7 @@ Editar una tarea existente -
 Eliminar una tarea
 
 ### 🔹 Backend:
-- Base SQL: Db Browser SQLite - Operaciones CRUD SQL
+- Base SQL: PostgreSQL - (Operaciones CRUD)
 - Servidor HTTP Basico con NodeJS: 
 - Express: Req / Res Facilitacion/Envio.
 - Diagrama Lucid Chart (Maquetacion/Presentacion)
@@ -69,7 +69,8 @@ Eliminar una tarea
 - Canva App
 
 # DIARIO DE AVANCES: 
+3/7 : Inicio
+-
 4/7 : 
--
--
+-//4) Conexión a Base de Datos a Creacion PostgreSQL
 -
