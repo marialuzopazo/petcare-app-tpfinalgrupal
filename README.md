@@ -68,4 +68,8 @@ Eliminar una tarea
 - Canva Presentacion
 - Canva App
 
-
+# DIARIO DE AVANCES: 
+4/7 : 
+-
+-
+-
