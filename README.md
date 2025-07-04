@@ -29,7 +29,7 @@
   
 #### 3-Lista de Servicios de Emergencias:
 
-- Lista de Veterinas
+- Lista de Veterinarias
 
 #### 🎯 ¿A quién está dirigido?:
 
@@ -39,14 +39,14 @@
 
 
 // Pasos:
-// (Maquetacion/Presentacion)
+//1) Maquetacion/Presentacion
 //
 //
 //
 
 #### 🧰 Herramientas
 ### 🔹 Frontend
-- Formulario - Validación con JavaScript / HTML
+- Formulario - Validación con JavaScript / HTML - Formulario para agregar nuevas tareas.
 
 - React + To Do List con JS
 
@@ -67,5 +67,5 @@ Eliminar una tarea
 - Diagrama Lucid Chart (Maquetacion/Presentacion)
 - Canva Presentacion
 - Canva App
-- Formulario para agregar nuevas tareas.
+
 
