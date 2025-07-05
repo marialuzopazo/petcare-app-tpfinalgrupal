@@ -73,4 +73,5 @@ Eliminar una tarea
 -
 4/7 : 
 -4) Conexión a Base de Datos y Creacion de database PostgreSQL
-5/7: Viodellamada - coordinacion - front formulario de inicio 
+5/7: Viodellamada - coordinacion - front formulario de inicio- Comienzo del FrontEnd de la pagina
+
